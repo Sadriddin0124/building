@@ -1,0 +1,83 @@
+{
+    "navbar": {
+        "item1": "Ma'lumot",
+        "item2": "Biz haqimizda",
+        "item3": "Korporatsiyalar",
+        "item4": "Bizning afzalliklarimiz",
+        "item5": "Yangiliklar",
+        "item6": "Aloqa"
+    },
+    "header": {
+        "title": "ATAEV",
+        "title2": "BAHODIR BUILD",
+        "subtitle": "Har narsada mukammallik",
+        "btn1": "Bizning loyihalar",
+        "btn2": "Aloqa"
+    },
+    "services": {
+        "title": "Bizning xizmatlar",
+        "desc1": "Siz kompaniyamiz mutaxassislaridan bepul ma'lumot olishingiz mumkin",
+        "desc2": "Hujjatlarni rasmiylashtirish",
+        "desc3": "Ta'mirlash xizmatlari",
+        "desc4": "Professional jamoa"
+    },
+    "company": {
+        "title": "Bizning kompaniya",
+        "employees": "Xodimlar soni",
+        "objects": "Obyektlar",
+        "equip": "Maxsus uskunalar",
+        "market": "Bozorda 14 yil"
+    },
+    "dream": "Sizning orzu uyingiz",
+    "projects": {
+        "title": "Bizning loyihalar",
+        "title1": "Magic City",
+        "desc1": "Bu katta ijtimoiy ahamiyatga ega loyiha. Toshkentdagi madaniyat va ko'ngilochar klaster - yangi diqqatga sazovor joylardan biri.",
+        "title2": "Gardens Residence",
+        "desc2": "O'zbekiston aholisiga qulaylik yaratish uchun yaratilgan ko'p funktsional turar joy majmuasi.",
+        "title3": "Fonon",
+        "desc3": "Poytaxtning markazida joylashgan ulkan turar joy majmuasi.",
+        "title4": "Invento",
+        "desc4": "Fonon - 2020 yilda Italiya bazasida qurilgan zargarlik ishlab chiqarish zavodi. Fonon - Markaziy Osiyoda qimmatbaho metallar va Evropa va Sharq uslubidagi zargarlik buyumlarini ishlab chiqaruvchi yagona yirik korxona.",
+        "title5": "Prezident Maktabi",
+        "desc5": "Toshkent Shahrining xalqaro biznes markazida joylashgan xalqaro bolalar bog'chasi va maktab.",
+        "title6": "Boulevard",
+        "desc6": "Bu xalqaro darajadagi bilim beruvchi o'quv muassasasi"
+    },
+    "news": {
+        "title": "Bizning barcha yangiliklarimiz",
+        "title1": "Qurilish loyihasi menejeri kim?",
+        "desc1": "Discover Invest kompaniyasida bir nechta qurilish loyihasi menejerlari mavjud. Bu mutaxassis unga ishonib topshirilgan qurilish maydonchasini muvaffaqiyatli amalga oshirish uchun javobgardir. U butun jarayonni boshqaradi, rejalashtirish bosqichidan va loyiha hujjatlarini tasdiqlashdan binoni foydalanishga topshirishgacha, ba'zan esa loyiha tugagandan keyin ham qo'llab-quvvatlashni amalga oshiradi.",
+        "title2": "Barchani kirib kelayotgan 2024 yil bilan tabriklaymiz!",
+        "desc2": "Zallarni murakkab ichki dizayni kvartiraga kirishdan oldin ham qulay muhit yaratadi va qulay navigatsiya tizimi sizga kerakli qavatga yoki hududga osongina chiqishga yordam beradi.",
+        "title3": "Joylashuv",
+        "desc3": "Transport infrastrukturasidan foydalanib shaharning istalgan joyiga osongina ko'chish mumkin: faqat kerakli va xohlagan yo'nalishni tanlash kerak.",
+        "title4": "Biz sizni Discover Invest ning ko'p funktsional obyektlari bilan tanishtirishni davom ettiramiz.",
+        "desc4": "Biz sizni Discover Invest ning ko'p funktsional obyektlari bilan tanishtirishni davom ettiramiz. Ulardan biri Toshkentning Yangi Xayot tumanida qurilgan Yangi Choshtepa turar joy majmuasidir. Umumiy qurilish maydoni 12 gektarni tashkil etadi. Hozirgi kunda 29 ta uy qurilgan."
+    },
+    "ideas": "Hamkorlar bilan g'oyalar almashish",
+    "learn": {
+        "title": "ATAEV BAHODIR",
+        "title2": "BUILD",
+        "desc": "Biz faqat loyihalar yaratib qolmaymiz, balki yangi imkoniyatlar yaratamiz. Davlat miqyosidagi ob'ektlarni qurib, biz kelajakni barpo etamiz. Atrof-muhitga g'amxo'rlik qilamiz: kompaniya qurilish va binolarni va infratuzilmalarni ishlatish bilan bog'liq ekologik jihatlar uchun to'liq javobgarlikni o'z zimmasiga oladi.",
+        "btn": "Ko'proq bilish"
+    },
+    "communication": {
+        "title": "Sizda savollar, takliflar yoki so'rovlar bormi?",
+        "name": "Sizning ismingiz",
+        "number": "Sizning telefon raqamingiz",
+        "message": "Sizning xabaringiz...",
+        "btn": "Yuborish"
+    },
+    "footer": {
+        "subscribe": "Bizning ijtimoiy tarmoqlarimizga obuna bo'ling",
+        "company": "Bizning kompaniya",
+        "link1": "Korporatsiyalar",
+        "link2": "Biz haqimizda",
+        "link3": "Yangiliklar",
+        "link4": "Bizning loyihalar",
+        "communication": "Aloqa",
+        "phone1": "+998974839999",
+        "phone2": "+998997126666"
+    }
+}

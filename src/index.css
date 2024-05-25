@@ -1,0 +1,53 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+
+.lang:hover div {
+  top: 30px;
+  opacity: 1;
+}
+
+.hover_link {
+  position: relative;
+}
+
+.hover_link::after {
+  transition: .5s ease all;
+  content: '';
+  position: absolute;
+  bottom: -8px;
+  left: 60px;
+  height: 3px;
+  width: 0;
+  background: gray;
+}
+
+.hover_link::before {
+  transition: .5s ease all;
+  content: '';
+  position: absolute;
+  bottom: -8px;
+  left: 60px;
+  height: 3px;
+  width: 0;
+  background: gray;
+}
+
+.hover_link:hover.hover_link::after {
+  width: 60px;
+  height: 2px;
+  left: 0;
+}
+
+.hover_link:hover.hover_link::before {
+  width: 60px;
+  height: 2px;
+  left: 60px;
+}

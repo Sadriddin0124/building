@@ -1,0 +1,84 @@
+{
+    "navbar": {
+        "item1": "Information",
+        "item2": "About Us",
+        "item3": "Enterprises",
+        "item4": "Our advantages",
+        "item5": "News",
+        "item6": "Communication"
+    },
+    "header": {
+        "title": "ATAEV ",
+        "title2": "BAHODIR BUILD ",
+        "subtitle": "Excellence in everything",
+        "btn1": "Our projects",
+        "btn2": "Connection"
+    },
+    "services": {
+        "title": "Our services",
+        "desc1": "You can get free information from our company's specialists",
+        "desc2": "Documents clearance",
+        "desc3": "Repair correction service",
+        "desc4": "Team of professionals"
+    },
+    "company": {
+        "title": "Our company",
+        "employees": "Number of employees",
+        "objects": "Objects",
+        "equip": "Special equipment",
+        "market": "14 years on the market"
+    },
+    "dream": "Your dream home",
+    "projects": {
+        "title": "Our Projects",
+        "title1": "Magic City",
+        "desc1": "This is a large-scale socially significant project. The cultural and entertainment cluster in Tashkent is one of the new attractions.",
+        "title2": "Gardens Residence",
+        "desc2": "Multifunctional residential complex created to provide comfort to the residents of Uzbekistan.",
+        "title3": "Fonon",
+        "desc3": "A grandiose residential area in the heart of the capital.",
+        "title4": "Invento",
+        "desc4": "Fonon is a jewelry production plant in Uzbekistan built on the basis of Italian ones in 2020. Fonon is the only large enterprise in Central Asia producing jewelry from precious metals in European and Oriental styles.",
+        "title5": "Presidential School",
+        "desc5": "International kindergarten and school located in the international business center of Tashkent City.",
+        "title6": "Boulevard",
+        "desc6": "This is an educational institution that provides knowledge at an international level"
+    },
+    "news": {
+        "title": "All our news",
+        "title1": "Who is a construction project manager?",
+        "desc1": "The Discover Invest company has several construction project managers. This is a specialist responsible for the successful implementation of the construction site entrusted to him. He manages the entire process, from the planning stage and approval of project documentation to the commissioning of the building, and sometimes also performs post-project support. Latest",
+        "title2": "Congratulations to everyone on the upcoming 2024!",
+        "desc2": "The sophisticated interior design of the halls will create an atmosphere of comfort even before entering the apartment, and a convenient navigation system will help you easily get to the floor you need or exit to the territory",
+        "title3": "Location",
+        "desc3": "The transport infrastructure allows you to easily move to anywhere in the city: you just have to choose the desired and desired direction.",
+        "title4": "We continue to introduce you to the multifunctional objects of Discover Invest.",
+        "desc4": "We continue to introduce you to the multifunctional objects of Discover Invest. One of them is the Yangi Choshtepa residential complex built in the Yangihayat district of Tashkent. The total construction area is 12 hectares. To date, 29 houses have been built."
+    },
+    "ideas": "Exchange ideas with partners",
+    "learn": {
+        "title": "ATAEV BAHODIR",
+        "title2": "BUILD",
+        "desc": "We don't just create projects, we create new opportunities. By building state-scale facilities, we are building the future. We care about the environment: the company takes full responsibility for environmental aspects associated with the construction and operation of buildings and infrastructure",
+        "btn": "Learn More"
+    },
+    "communication": {
+        "title": "Do you have any questions, suggestions or requests?",
+        "name": "Your name",
+        "number": "Your phone number",
+        "message": "Your message...",
+        "btn": "Sending"
+    },
+    "footer": {
+        "subscribe": "Subscribe to our social networks",
+        "company": "Our company",
+        "link1": "Enterprises",
+        "link2": "About Us",
+        "link3": "News",
+        "link4": "Our Projects",
+        "communication": "Communication",
+        "phone1": "+998974839999",
+        "phone2": "+998997126666"
+    }
+}
+  
