@@ -12,7 +12,7 @@ const Header = () => {
     btn2: t("header.btn2"),
   }
   return (
-    <header id="information" className="w-[100%] h-[90vh] relative flex items-center justify-start">
+    <header id="information" className="mt-[70px] w-[100%] h-[90vh] relative flex items-center justify-start">
       <img
         src={HeaderImg}
         alt="header"

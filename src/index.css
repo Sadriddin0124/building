@@ -23,7 +23,7 @@
   content: '';
   position: absolute;
   bottom: -8px;
-  left: 60px;
+  left: 50%;
   height: 3px;
   width: 0;
   background: gray;
@@ -34,20 +34,20 @@
   content: '';
   position: absolute;
   bottom: -8px;
-  left: 60px;
+  left: 50%;
   height: 3px;
   width: 0;
   background: gray;
 }
 
 .hover_link:hover.hover_link::after {
-  width: 60px;
+  width: 50%;
   height: 2px;
   left: 0;
 }
 
 .hover_link:hover.hover_link::before {
-  width: 60px;
+  width: 50%;
   height: 2px;
-  left: 60px;
+  left: 50%;
 }
