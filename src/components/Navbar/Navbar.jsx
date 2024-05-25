@@ -51,7 +51,7 @@ const Navbar = () => {
         <li className="flex justify-center items-center lg:hidden w-[35px] h-[35px] bg-gray-600 rounded-full text-white cursor-pointer" onClick={()=>setSideBar(true)}><FaBars/></li>
         {data?.map((item, index) => {
           return (
-            <li key={index} className="hidden lg:block whitespace-nowrap">
+            <li key={index} className="hidden lg:block hover_link whitespace-nowrap">
               <a href={item?.id}>{item?.text}</a>
             </li>
           );
@@ -62,7 +62,7 @@ const Navbar = () => {
         </li>
         {data2?.map((item, index) => {
           return (
-            <li key={index} className="hidden lg:block whitespace-nowrap">
+            <li key={index} className="hidden lg:block hover_link whitespace-nowrap">
               <a href={item?.id}>{item?.text}</a>
             </li>
           );
@@ -84,14 +84,14 @@ const Navbar = () => {
         <ul className="w-[100%] flex flex-col gap-[10px] mt-[35px]">
         {data?.map((item, index) => {
           return (
-            <li key={index} className="whitespace-nowrap">
+            <li key={index} className="hover_link whitespace-nowrap">
               <a href={item?.id}>{item?.text}</a>
             </li>
           );
         })}
         {data2?.map((item, index) => {
           return (
-            <li key={index} className="whitespace-nowrap">
+            <li key={index} className="hover_link whitespace-nowrap">
               <a href={item?.id}>{item?.text}</a>
             </li>
           );
