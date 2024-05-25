@@ -13,7 +13,7 @@ const Ideas = () => {
   const title = t("ideas");
   const images = [Idea1, Idea2, Idea3, Idea4, Idea5, Idea6, Idea7, Idea8];
   return (
-    <section className="w-[100%] flex flex-col py-[30px] items-center gap-[20px]">
+    <section id="advantages" className="w-[100%] flex flex-col py-[30px] items-center gap-[20px]">
       <h1 className="text-[25px]">{title}</h1>
       <div className="w-[100%] grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4">
         {
