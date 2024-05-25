@@ -2,6 +2,7 @@ import React from "react";
 import HeaderImg from "../../assets/header.jpeg";
 import { useTranslation } from "react-i18next";
 import BtnOutline from "../BtnOutline/BtnOutline";
+import CountUp from 'react-countup';
 const Header = () => {
   const { t } = useTranslation();
   const data = {
@@ -23,8 +24,12 @@ const Header = () => {
         <h1 className="text-[25px] md:text-[5.35rem] font-[600] text-white ">{data?.title2}</h1>
         <p className="mt-[20px] mb-[40px] text-white text-[20px] font-[500]">{data?.subtitle}</p>
         <div className="flex gap-[20px] flex-wrap justify-center">
+            <a href="#aboutUs">
             <BtnOutline value={data?.btn1}/>
+            </a>
+            <a href="#communication">
             <BtnOutline value={data?.btn2}/>
+            </a>
         </div>
       </div>
     </header>

@@ -67,7 +67,7 @@ const Navbar = () => {
             </li>
           );
         })}
-        <li className="flex justify-center items-center lg:hidden  w-[35px] h-[35px] bg-gray-600 rounded-full text-white cursor-pointer"><FaPhone/></li>
+        <li className="lg:hidden  w-[35px] h-[35px] bg-gray-600 rounded-full text-white cursor-pointer"><a className="flex justify-center items-center w-[100%] h-[100%]" href="tel:+998 88 633 0124"><FaPhone/></a></li>
         <li className="relative lang cursor-pointer hidden lg:block">
             <p>{activeLang}</p>
             <div className="absolute bg-zinc-900 text-white p-[15px] rounded-lg top-[50px] transition-all left-[-10px] opacity-0">
