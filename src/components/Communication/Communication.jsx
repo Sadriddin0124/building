@@ -22,7 +22,7 @@ const Communication = () => {
           alt="Communication"
           className="w-[100%] h-[100%] absolute z-0 top-0 left-0"
         />
-        <div  data-aos="fade-up" className="relative z-20 flex flex-col gap-[20px] items-start max-w-[500px]">
+        <div data-aos="fade-up" className="relative z-20 flex flex-col gap-[20px] items-start max-w-[500px]">
           <label className="text-[20px] sm:text-[30px] mb-[20px] text-white max-w-[330px] w-[100%]">
             {title}
           </label>

@@ -13,7 +13,7 @@ import Footer from '../../components/Footer/Footer';
 
 const Main = () => {    
   return (
-    <div className='w-[100%] min-h-[100vh]'>
+    <div className='w-[100%] min-h-[100vh] overflow-hidden'>
         <Navbar/>
         <Header/>
         <Services/>
