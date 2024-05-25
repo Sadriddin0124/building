@@ -67,7 +67,8 @@
         "name": "Your name",
         "number": "Your phone number",
         "message": "Your message...",
-        "btn": "Sending"
+        "btn": "Sending",
+        "notification": "Message sent successfully!"
     },
     "footer": {
         "subscribe": "Subscribe to our social networks",

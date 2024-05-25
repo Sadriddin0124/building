@@ -52,7 +52,7 @@ const Navbar = () => {
         {data?.map((item, index) => {
           return (
             <li key={index} className="hidden lg:block whitespace-nowrap">
-              <Link to={item?.id}>{item?.text}</Link>
+              <a href={item?.id}>{item?.text}</a>
             </li>
           );
         })}
@@ -63,7 +63,7 @@ const Navbar = () => {
         {data2?.map((item, index) => {
           return (
             <li key={index} className="hidden lg:block whitespace-nowrap">
-              <Link to={item?.id}>{item?.text}</Link>
+              <a href={item?.id}>{item?.text}</a>
             </li>
           );
         })}
@@ -85,14 +85,14 @@ const Navbar = () => {
         {data?.map((item, index) => {
           return (
             <li key={index} className="whitespace-nowrap">
-              <Link to={item?.id}>{item?.text}</Link>
+              <a href={item?.id}>{item?.text}</a>
             </li>
           );
         })}
         {data2?.map((item, index) => {
           return (
             <li key={index} className="whitespace-nowrap">
-              <Link to={item?.id}>{item?.text}</Link>
+              <a href={item?.id}>{item?.text}</a>
             </li>
           );
         })}

@@ -67,7 +67,8 @@
         "name": "Sizning ismingiz",
         "number": "Sizning telefon raqamingiz",
         "message": "Sizning xabaringiz...",
-        "btn": "Yuborish"
+        "btn": "Yuborish",
+        "notification": "Xabar muvaffaqiyatli jo'natildi!" 
     },
     "footer": {
         "subscribe": "Bizning ijtimoiy tarmoqlarimizga obuna bo'ling",
