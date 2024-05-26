@@ -52,7 +52,7 @@ const Navbar = () => {
         {data?.map((item, index) => {
           return (
             <li key={index} className="hidden lg:block hover_link whitespace-nowrap">
-              <a href={item?.id}>{item?.text}</a>
+              <a onClick={()=>setSideBar(false)} href={item?.id}>{item?.text}</a>
             </li>
           );
         })}
@@ -63,7 +63,7 @@ const Navbar = () => {
         {data2?.map((item, index) => {
           return (
             <li key={index} className="hidden lg:block hover_link whitespace-nowrap">
-              <a href={item?.id}>{item?.text}</a>
+              <a onClick={()=>setSideBar(false)} href={item?.id}>{item?.text}</a>
             </li>
           );
         })}
@@ -81,18 +81,18 @@ const Navbar = () => {
         <button className="p-[10px] rounded-full bg-[#f6dfae] absolute top-[20px] right-[20px]" onClick={()=>setSideBar(false)}>
         <IoClose size={24}/>
         </button>
-        <ul className="w-[100%] flex flex-col gap-[10px] mt-[35px]">
+        <ul className="w-[100%] flex flex-col items-start gap-[10px] mt-[35px]">
         {data?.map((item, index) => {
           return (
             <li key={index} className="hover_link whitespace-nowrap">
-              <a href={item?.id}>{item?.text}</a>
+              <a onClick={()=>setSideBar(false)} href={item?.id}>{item?.text}</a>
             </li>
           );
         })}
         {data2?.map((item, index) => {
           return (
             <li key={index} className="hover_link whitespace-nowrap">
-              <a href={item?.id}>{item?.text}</a>
+              <a onClick={()=>setSideBar(false)} href={item?.id}>{item?.text}</a>
             </li>
           );
         })}
